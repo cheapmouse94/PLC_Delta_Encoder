@@ -78,4 +78,5 @@ Kontrola pulsów oraz obrotów:
 
 Obsługa silnika:
 ![3](https://github.com/cheapmouse94/PLC_Delta_Encoder/assets/75945631/b741a7c4-da22-4e6b-ba44-5e145875cb10)
+
 ![4](https://github.com/cheapmouse94/PLC_Delta_Encoder/assets/75945631/ea60571d-3374-4d61-ad3f-04e36bfff762)

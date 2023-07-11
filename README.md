@@ -1,6 +1,6 @@
 # PLC_Delta_Encoder_pl
 
-Projekt elektryczny, który realizuje proces zasilania silnika 3F w dwóch kierunkach obrotów. Zaimplementowano kontolę kierunku obrotów silnika realizowanego za sterownika PLC. 
+Projekt elektryczny realizujący układ napędowy przy pomocy silnika 3F w obu kierunkach obrotów. Zaimplementowano kontolę kierunku obrotów silnika realizowanego za sterownika PLC. 
 W celu uzyskania możliwości nadawania obrotów w dwóch kierunkach oraz regulację prędkości obrotowej silnika wykorzystano falownik o mocy znamionowej 0.55kW, natomiast enkoder odpowiada za kontolę pracy silnika wysyłając sygnały do sterownika PLC. 
 Tryby pracy silnika zostaną zasygnalizowane przy użyciu oświetlenia sygnalizacyjnego.
 

@@ -68,15 +68,15 @@ Oznaczenie wejść/wyjść cyfrowych:
 |10|	C1, C2, C3|	Potencjały wspólne|
 
 Schemat elektryczny sterowania:
-![Enkoder](https://github.com/cheapmouse94/PLC_Delta_Encoder/assets/75945631/29d5e40d-3c46-4d47-a2dd-1e9a81a1fe02)
+![Enkoder](img/schematic_main.png)
 
 Sekcja inicjacyjna PLC:
-![1](https://github.com/cheapmouse94/PLC_Delta_Encoder/assets/75945631/9026d29b-643f-4f7d-a176-9010d1c2e21f)
+![1](img/code1.PNG)
 
 Kontrola pulsów oraz obrotów:
-![2](https://github.com/cheapmouse94/PLC_Delta_Encoder/assets/75945631/2c5c12ca-bfe3-421c-9eef-2d429008382b)
+![2](img/code2.PNG)
 
 Obsługa silnika: <br/>
-![3](https://github.com/cheapmouse94/PLC_Delta_Encoder/assets/75945631/b741a7c4-da22-4e6b-ba44-5e145875cb10)
+![3](img/code3.PNG)
 
-![4](https://github.com/cheapmouse94/PLC_Delta_Encoder/assets/75945631/ea60571d-3374-4d61-ad3f-04e36bfff762)
+![4](img/code4.PNG)
